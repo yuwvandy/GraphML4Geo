@@ -26,5 +26,5 @@
 **Goverment Proposal Funding Dataset** [[Link]](https://www.sbir.gov/awards)</br>
 
 ## Method
-**DARG: Dynamic Evaluation of Large Language Models via Adaptive Reasoning Graph** [[Link]](https://arxiv.org/pdf/2406.17271)
+**DARG: Dynamic Evaluation of Large Language Models via Adaptive Reasoning Graph** [[Link]](https://arxiv.org/pdf/2406.17271)</br>
 **DYVAL: Dynamic Evaluation of Large Language Models for Reasoning Tasks** [[Link]](https://arxiv.org/pdf/2309.17167)
