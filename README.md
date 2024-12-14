@@ -23,10 +23,11 @@
 **Earth Data** [[Link]](https://daymet.ornl.gov/)</br>
 **Goverment Proposal Funding Dataset** [[Link]](https://www.sbir.gov/awards)</br>
 
-## Method
+## Neural-Symbolic GenAI
 **DARG: Dynamic Evaluation of Large Language Models via Adaptive Reasoning Graph** [[Link]](https://arxiv.org/pdf/2406.17271)</br>
 **DYVAL: Dynamic Evaluation of Large Language Models for Reasoning Tasks** [[Link]](https://arxiv.org/pdf/2309.17167)</br>
 **Forest-of-Thought: Scaling Test-Time Compute for Enhancing LLM Reasoning** [[Link]](https://arxiv.org/abs/2412.09078)</br>
 **Neural-Symbolic Methods for Knowledge Graph Reasoning: A Survey** [[Link]](https://dl.acm.org/doi/abs/10.1145/3686806)</br>
 **Neuro-symbolic_AI** [[Link]](https://en.wikipedia.org/wiki/Neuro-symbolic_AI)</br>
 **Differentiable Neuro-Symbolic Reasoning on Large-Scale Knowledge Graphs** [[Link]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5965f3a748a8d41415db2bfa44635cc3-Abstract-Conference.html)</br>
+**InstructG2I: Synthesizing Images from Multimodal Attributed Graphs** [[Link]](https://arxiv.org/abs/2410.07157)</br>
