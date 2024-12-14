@@ -14,8 +14,6 @@
 [KDD 2024] **UrbanGPT: Spatio-Temporal Large Language Models** [[Paper]](https://dl.acm.org/doi/abs/10.1145/3637528.3671578?casa_token=iKyUrDnwB_8AAAAA:HCsty4O-V46U2aFPeqE3Z8AMVGKQuzvDbBSEUxRLIp02BbeK428n2EdG6AR9w6hI_CV3BPmVIsXe)
 
 
-
-
 ## LLM Agent + Spatial
 [ArXiv 2024] **V-IRL: Grounding Virtual Intelligence in Real Life** [[Paper]](https://virl-platform.github.io/)</br>
 
@@ -29,3 +27,6 @@
 **DARG: Dynamic Evaluation of Large Language Models via Adaptive Reasoning Graph** [[Link]](https://arxiv.org/pdf/2406.17271)</br>
 **DYVAL: Dynamic Evaluation of Large Language Models for Reasoning Tasks** [[Link]](https://arxiv.org/pdf/2309.17167)
 **Forest-of-Thought: Scaling Test-Time Compute for Enhancing LLM Reasoning** [[Link]](https://arxiv.org/abs/2412.09078)
+**Neural-Symbolic Methods for Knowledge Graph Reasoning: A Survey** [[Link]](https://dl.acm.org/doi/abs/10.1145/3686806)
+**Neuro-symbolic_AI** [[Link]](https://en.wikipedia.org/wiki/Neuro-symbolic_AI)
+**Differentiable Neuro-Symbolic Reasoning on Large-Scale Knowledge Graphs** [[Link]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5965f3a748a8d41415db2bfa44635cc3-Abstract-Conference.html)
