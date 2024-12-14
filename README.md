@@ -28,3 +28,4 @@
 ## Method
 **DARG: Dynamic Evaluation of Large Language Models via Adaptive Reasoning Graph** [[Link]](https://arxiv.org/pdf/2406.17271)</br>
 **DYVAL: Dynamic Evaluation of Large Language Models for Reasoning Tasks** [[Link]](https://arxiv.org/pdf/2309.17167)
+**Forest-of-Thought: Scaling Test-Time Compute for Enhancing LLM Reasoning** [[Link]](https://arxiv.org/abs/2412.09078)
