@@ -24,3 +24,6 @@
 **Sea Surface Temperature Dataset** [[Link]](https://spatiotemporal-data.github.io/climate/sst/)</br>
 **Earth Data** [[Link]](https://daymet.ornl.gov/)</br>
 **Goverment Proposal Funding Dataset** [[Link]](https://www.sbir.gov/awards)</br>
+
+## Method
+**DARG: Dynamic Evaluation of Large Language Models via Adaptive Reasoning Graph** [[Link]](https://arxiv.org/pdf/2406.17271)
