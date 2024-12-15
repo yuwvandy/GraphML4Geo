@@ -31,3 +31,4 @@
 **Neuro-symbolic_AI** [[Link]](https://en.wikipedia.org/wiki/Neuro-symbolic_AI)</br>
 **Differentiable Neuro-Symbolic Reasoning on Large-Scale Knowledge Graphs** [[Link]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5965f3a748a8d41415db2bfa44635cc3-Abstract-Conference.html)</br>
 **InstructG2I: Synthesizing Images from Multimodal Attributed Graphs** [[Link]](https://arxiv.org/abs/2410.07157)</br>
+**Geometry-Aware Adaptation for Pretrained Models** [[Link]](https://arxiv.org/pdf/2307.12226)</br>
