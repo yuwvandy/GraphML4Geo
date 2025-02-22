@@ -6,6 +6,9 @@
 **Topological Understanding about Your LLM**
 - [ICLR 25] **TopoLM: brain-like spatio-functional organization in a topographic language model** [[Link]](https://openreview.net/forum?id=aWXnKanInf)</br>
 - [ICLR 25] **TopoNets: High performing vision and language models with brain-like topography** [[Link]](https://openreview.net/forum?id=THqWPzL00e)</br>
+**Graph Generative Model**
+- [ICLR 24] **DiGress: Discrete Denoising diffusion for graph generation** [[Link]](https://arxiv.org/abs/2209.14734)</br>
+- [NeurIPS 22] **Torsional Diffusion for Molecular Conformer Generation** [[Link]](https://arxiv.org/abs/2206.01729)
 
 
 ## Neural-Symbolic GenAI
