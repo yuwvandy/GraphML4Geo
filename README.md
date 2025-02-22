@@ -1,18 +1,30 @@
-# Neural Symbolic AI with Application in Spatial-Temporal
+# Reading Materials
 ## Neural-Symbolic GenAI
-### Symbolic Knowledge Understanding for Neural Learning
-[NeurIPS 24] **DARG: Dynamic Evaluation of Large Language Models via Adaptive Reasoning Graph** [[Link]](https://arxiv.org/pdf/2406.17271)</br>
-[ICLR 24] **DYVAL: Dynamic Evaluation of Large Language Models for Reasoning Tasks** [[Link]](https://arxiv.org/pdf/2309.17167)</br>
+### Symbolic Design for Better Neural Learning
 [ICML 25] **Forest-of-Thought: Scaling Test-Time Compute for Enhancing LLM Reasoning** [[Link]](https://arxiv.org/abs/2412.09078)</br>
 [TKDD 24] **Neural-Symbolic Methods for Knowledge Graph Reasoning: A Survey** [[Link]](https://dl.acm.org/doi/abs/10.1145/3686806)</br>
-[Wiki] **Neuro-symbolic_AI** [[Link]](https://en.wikipedia.org/wiki/Neuro-symbolic_AI)</br>
 [NeurIPS 24] **InstructG2I: Synthesizing Images from Multimodal Attributed Graphs** [[Link]](https://arxiv.org/abs/2410.07157)</br>
-
-
-
-### Neural Knowledge Understanding for Symbolic Learning
 [NeurIPS 23] **Geometry-Aware Adaptation for Pretrained Models** [[Link]](https://arxiv.org/pdf/2307.12226)</br>
+[ICLR 25] **AFLOW: AUTOMATING AGENTIC WORKFLOW GENERATION** [[Link]](https://openreview.net/forum?id=z5uVAKwmjf)</br>
+[ICLR 25] **TopoNets: High performing vision and language models with brain-like topography** [[Link]](https://openreview.net/forum?id=THqWPzL00e)</br>
+### Symbolic Understanding from Neural Learning
+[ICLR 25] **Symbolic Design for Better Neural Learning** [[Link]](https://openreview.net/pdf?id=V4K9h1qNxE)</br>
+[ICLR 25] **TopoLM: brain-like spatio-functional organization in a topographic language model** [[Link]](https://openreview.net/forum?id=aWXnKanInf)</br>
+[ICLR 25] **Attention as a Hypernetwork**[[Link]](https://openreview.net/forum?id=V4K9h1qNxE)</br>
+[ICLR 25] **REGENESIS: LLMS CAN GROW INTO REASONING GENERALISTS VIA SELF-IMPROVEMENT** [[Link]](https://openreview.net/pdf?id=YUYJsHOf3c)
+[ICLR 25] **THE GEOMETRY OF CATEGORICAL AND HIERARCHICAL CONCEPTS IN LARGE LANGUAGE MODELS** [[Link]](https://openreview.net/pdf?id=bVTM2QKYuA)
+[ICLR 25] **SPARSE FEATURE CIRCUITS: DISCOVERING AND EDITING INTERPRETABLE CAUSAL GRAPHS IN LANGUAGE MODELS** [[Link]](https://openreview.net/pdf?id=I4e82CIDxv)
+### Symbolic + Neural Learning
+[ICLR 25] **Symbolic Understanding from Neural Learning** [[Link]](https://openreview.net/pdf?id=v593OaNePQ)
+[Wiki] **Neuro-symbolic_AI** [[Link]](https://en.wikipedia.org/wiki/Neuro-symbolic_AI)</br>
+[ICLR 25] **Reasoning Elicitation in Language Models via Counterfactual Feedback** [[Link]](https://openreview.net/forum?id=VVixJ9QavY)</br>
 
+### Evaluation
+[NeurIPS 24] **DARG: Dynamic Evaluation of Large Language Models via Adaptive Reasoning Graph** [[Link]](https://arxiv.org/pdf/2406.17271)</br>
+[ICLR 24] **DYVAL: Dynamic Evaluation of Large Language Models for Reasoning Tasks** [[Link]](https://arxiv.org/pdf/2309.17167)</br>
+
+## Neural ODE
+[ICLR 25] **FEEDBACK FAVORS THE GENERALIZATION OF NEURAL ODES** [[Link]](https://openreview.net/pdf?id=cmfyMV45XO)
 
 ## Application
 ### GeoAI
