@@ -1,4 +1,13 @@
 # Reading Materials
+## Big Direction
+**Topological Methods in Machine Learning: A Tutorial for Practitioners** [[Link]](https://arxiv.org/html/2409.02901v1)</br>
+**Neuro-symbolic artificial intelligence: a survey** [[Link]](https://dl.acm.org/doi/10.1007/s00521-024-09960-z)</br>
+**Physics-Guided Deep Learning for Dynamical Systems: A Survey** [[Link]](https://arxiv.org/pdf/2107.01272)</br>
+**Topological Understanding about Your LLM**
+- [ICLR 25] **TopoLM: brain-like spatio-functional organization in a topographic language model** [[Link]](https://openreview.net/forum?id=aWXnKanInf)</br>
+- [ICLR 25] **TopoNets: High performing vision and language models with brain-like topography** [[Link]](https://openreview.net/forum?id=THqWPzL00e)</br>
+
+
 ## Neural-Symbolic GenAI
 ### Symbolic Design for Better Neural Learning
 [ICML 25] **Forest-of-Thought: Scaling Test-Time Compute for Enhancing LLM Reasoning** [[Link]](https://arxiv.org/abs/2412.09078)</br>
