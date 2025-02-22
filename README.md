@@ -11,11 +11,11 @@
 [ICLR 25] **Symbolic Design for Better Neural Learning** [[Link]](https://openreview.net/pdf?id=V4K9h1qNxE)</br>
 [ICLR 25] **TopoLM: brain-like spatio-functional organization in a topographic language model** [[Link]](https://openreview.net/forum?id=aWXnKanInf)</br>
 [ICLR 25] **Attention as a Hypernetwork**[[Link]](https://openreview.net/forum?id=V4K9h1qNxE)</br>
-[ICLR 25] **REGENESIS: LLMS CAN GROW INTO REASONING GENERALISTS VIA SELF-IMPROVEMENT** [[Link]](https://openreview.net/pdf?id=YUYJsHOf3c)
-[ICLR 25] **THE GEOMETRY OF CATEGORICAL AND HIERARCHICAL CONCEPTS IN LARGE LANGUAGE MODELS** [[Link]](https://openreview.net/pdf?id=bVTM2QKYuA)
-[ICLR 25] **SPARSE FEATURE CIRCUITS: DISCOVERING AND EDITING INTERPRETABLE CAUSAL GRAPHS IN LANGUAGE MODELS** [[Link]](https://openreview.net/pdf?id=I4e82CIDxv)
+[ICLR 25] **REGENESIS: LLMS CAN GROW INTO REASONING GENERALISTS VIA SELF-IMPROVEMENT** [[Link]](https://openreview.net/pdf?id=YUYJsHOf3c)</br>
+[ICLR 25] **THE GEOMETRY OF CATEGORICAL AND HIERARCHICAL CONCEPTS IN LARGE LANGUAGE MODELS** [[Link]](https://openreview.net/pdf?id=bVTM2QKYuA)</br>
+[ICLR 25] **SPARSE FEATURE CIRCUITS: DISCOVERING AND EDITING INTERPRETABLE CAUSAL GRAPHS IN LANGUAGE MODELS** [[Link]](https://openreview.net/pdf?id=I4e82CIDxv)</br>
 ### Symbolic + Neural Learning
-[ICLR 25] **Symbolic Understanding from Neural Learning** [[Link]](https://openreview.net/pdf?id=v593OaNePQ)
+[ICLR 25] **Symbolic Understanding from Neural Learning** [[Link]](https://openreview.net/pdf?id=v593OaNePQ)</br>
 [Wiki] **Neuro-symbolic_AI** [[Link]](https://en.wikipedia.org/wiki/Neuro-symbolic_AI)</br>
 [ICLR 25] **Reasoning Elicitation in Language Models via Counterfactual Feedback** [[Link]](https://openreview.net/forum?id=VVixJ9QavY)</br>
 
@@ -24,7 +24,7 @@
 [ICLR 24] **DYVAL: Dynamic Evaluation of Large Language Models for Reasoning Tasks** [[Link]](https://arxiv.org/pdf/2309.17167)</br>
 
 ## Neural ODE
-[ICLR 25] **FEEDBACK FAVORS THE GENERALIZATION OF NEURAL ODES** [[Link]](https://openreview.net/pdf?id=cmfyMV45XO)
+[ICLR 25] **FEEDBACK FAVORS THE GENERALIZATION OF NEURAL ODES** [[Link]](https://openreview.net/pdf?id=cmfyMV45XO)</br>
 
 ## Application
 ### GeoAI
