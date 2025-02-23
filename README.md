@@ -9,8 +9,11 @@
 - [ICLR 25] **TopoNets: High performing vision and language models with brain-like topography** [[Link]](https://openreview.net/forum?id=THqWPzL00e)</br>
 
 **Graph Generative Model**
-- [ICLR 24] **DiGress: Discrete Denoising diffusion for graph generation** [[Link]](https://arxiv.org/abs/2209.14734)</br>
-- [NeurIPS 22] **Torsional Diffusion for Molecular Conformer Generation** [[Link]](https://arxiv.org/abs/2206.01729)
+- [NeurIPS 22] **Torsional Diffusion for Molecular Conformer Generation** [[Link]](https://arxiv.org/abs/2206.01729)</br>
+- [Survey] **Diffusion Models for Molecules: A Survey of Methods and Tasks** [[Link]](https://arxiv.org/html/2502.09511v1)</br>
+
+**Graph Machine Learning for Instructure**
+- [NeurIPS 24] **PowerGraph: A power grid benchmark dataset for graph neural networks** [[Link]](https://arxiv.org/pdf/2402.02827)
 
 
 ## Neural-Symbolic GenAI
