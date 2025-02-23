@@ -12,11 +12,14 @@
 - [NeurIPS 22] **Torsional Diffusion for Molecular Conformer Generation** [[Link]](https://arxiv.org/abs/2206.01729)</br>
 - [Survey] **Diffusion Models for Molecules: A Survey of Methods and Tasks** [[Link]](https://arxiv.org/html/2502.09511v1)</br>
 
-**Graph Machine Learning for Infastructure**
+**Graph Machine Learning for Infrastructure**
 - [NeurIPS 24] **PowerGraph: A power grid benchmark dataset for graph neural networks** [[Link]](https://arxiv.org/pdf/2402.02827)</br>
 - [NeurIPS 24] **TorchSpatial: A Location Encoding Framework and Benchmark for Spatial Representation Learning** [[Link]](https://proceedings.neurips.cc/paper_files/paper/2024/file/9449c2d5b0cc8c9a445752f3ff195a1c-Paper-Datasets_and_Benchmarks_Track.pdf)</br>
 - Slides I shared with you</br>
-
+- [] **Estimating Social Influence from Observational Data** [[Link]](https://proceedings.mlr.press/v177/sridhar22a/sridhar22a.pdf)</br>
+- [ICML 22] **Deep Graph Representation Learning and Optimization for Influence Maximization** [[Link]](https://proceedings.mlr.press/v202/ling23b/ling23b.pdf)
+- [ArXiv] **Amplifying Your Social Media Presence: Personalized Influential Content Generation with LLMs** [[Link]](https://openreview.net/pdf?id=hDK1WP5NGL)
+- [ArXiv] **Engagement-Driven Content Generation with Large Language Models** [[Link]](https://openreview.net/pdf?id=aEFo6mYdLp)
 
 ## Neural-Symbolic GenAI
 ### Symbolic Design for Better Neural Learning
