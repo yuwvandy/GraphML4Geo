@@ -12,7 +12,7 @@
 - [NeurIPS 22] **Torsional Diffusion for Molecular Conformer Generation** [[Link]](https://arxiv.org/abs/2206.01729)</br>
 - [Survey] **Diffusion Models for Molecules: A Survey of Methods and Tasks** [[Link]](https://arxiv.org/html/2502.09511v1)</br>
 
-**Graph Machine Learning for Infrastructure**
+**Spatial-Temporal Graph Machine Learning**
 - [NeurIPS 24] **PowerGraph: A power grid benchmark dataset for graph neural networks** [[Link]](https://arxiv.org/pdf/2402.02827)</br>
 - [NeurIPS 24] **TorchSpatial: A Location Encoding Framework and Benchmark for Spatial Representation Learning** [[Link]](https://proceedings.neurips.cc/paper_files/paper/2024/file/9449c2d5b0cc8c9a445752f3ff195a1c-Paper-Datasets_and_Benchmarks_Track.pdf)</br>
 - Slides I shared with you</br>
